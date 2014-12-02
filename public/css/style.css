@@ -1,0 +1,36 @@
+.navbar {
+    background-color: rgba(0, 0, 0, 0.4);
+    border: none;
+    color: white;
+    font: 400 1.5em/125% 'Grand Hotel', Helvetica, Sans-serif;
+}
+
+.colonnes { 
+margin-top: 20px}
+
+.heading {
+    background: url(https://farm1.staticflickr.com/121/273108378_077cbf4225_b.jpg) no-repeat;
+    background-size: cover;
+    height: 400px;
+    text-align:center;
+    background-attachment: fixed;
+}
+
+h1 {color : white;
+margin-left: 15px;
+    font: 400 5em/125% 'Grand Hotel', Helvetica, Sans-serif;
+      
+}
+
+.btn-default {
+    background-color: rgba(255, 255, 255, 0.5);
+    color: white;
+
+}
+
+.btn-default:hover {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+}
+
+.row {text-align:center;}
